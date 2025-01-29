@@ -1,7 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently studying on AI Data Engineer<br>🌱 I’m currently learning Artificial Inteligence<br>💬 Ask me about<br>⚡ Fun fact
+# SAIFUDHEEN T.K 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!❤️     )
+ ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b> 
+ 
 
 
+👨‍💻 Hi, **I'm SAIFUDHEEN T.K**
+
+🌱 I'm currently diving deep into **Artificial Intelligence & Machine Learning**  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hey._.saifu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saifuhh/) 
 
