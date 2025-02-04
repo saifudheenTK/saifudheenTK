@@ -4,42 +4,40 @@
 
 <h1 align="center">Saifudheen's Portfolio</h1>
 
+
 ## About Me
-<p align="center">
-  Hello! I'm Saifudheen, an AI and ML enthusiast with a deep passion for exploring innovative projects. I thrive on learning new things and staying on top of the latest technological developments. With a background in Computer Science (+2) and a diploma in AI and ML, I'm constantly pushing myself to expand my skills and take on new challenges. I believe there's always something new to discover, no matter how much you know!
-</p>
+
+Hello! I'm Saifudheen, an AI and ML enthusiast with a deep passion for exploring innovative projects. I thrive on learning new things and staying on top of the latest technological developments. With a background in Computer Science (+2) and a diploma in AI and ML, I'm constantly pushing myself to expand my skills and take on new challenges. I believe there's always something new to discover, no matter how much you know!
 
 ## Skills & Expertise
-<p align="center">
-  - Python  
-  - AI & Machine Learning  
-  - Streamlit  
-  - Flask  
-  - Data Science  
-</p>
+
+- Python
+- AI & Machine Learning
+- Streamlit
+- Flask
+- Data Science
 
 ## Projects
-<p align="center">
-  <a href="https://github.com/saifudheenTK/Streamlit-SurvivalPredictor">Streamlit Survival Predictor</a> - A Streamlit app for predicting survival chances based on different input features.  
-  <br>  
-  <a href="https://github.com/saifudheenTK/Covid-lifestyle-prediction">Covid Lifestyle Prediction</a> - A project focused on predicting how COVID-19 can affect various lifestyle aspects using data analysis.  
-  <br>  
-  <a href="https://github.com/saifudheenTK/Titanic-Voting-Flask">Titanic Survival Predictor</a> - A Flask-based web app that predicts Titanic survival chances using multiple algorithms.  
-</p>
+
+### [Streamlit Survival Predictor](https://github.com/saifudheenTK/Streamlit-SurvivalPredictor)
+A Streamlit app for predicting survival chances based on different input features.
+
+### [Covid Lifestyle Prediction](https://github.com/saifudheenTK/Covid-lifestyle-prediction)
+A project focused on predicting how COVID-19 can affect various lifestyle aspects using data analysis.
+
+### [Titanic Survival Predictor](https://github.com/saifudheenTK/Titanic-Voting-Flask)
+A Flask-based web app that predicts Titanic survival chances using multiple algorithms.
 
 ## Education & Background
-<p align="center">
-  - Completed +2 in Computer Science.  
-  - Diploma in AI and Machine Learning.  
-</p>
+
+- Completed +2 in Computer Science.
+- Diploma in AI and Machine Learning.
 
 ## Links
-<p align="center">
-  - <a href="https://www.instagram.com/hey._.saifu/?next=%2F">Instagram</a>  
-  - <a href="https://www.linkedin.com/in/saifuhh/">LinkedIn</a>  
-</p>
+
+- [Instagram](https://www.instagram.com/hey._.saifu/?next=%2F)
+- [LinkedIn](https://www.linkedin.com/in/saifuhh/)
 
 ## Let's Connect!
-<p align="center">
-  Feel free to reach out if you'd like to collaborate or discuss exciting projects!
-</p>
+
+Feel free to reach out if you'd like to collaborate or discuss exciting projects!
