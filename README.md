@@ -1,6 +1,6 @@
 # Saifudheen's Portfolio
 
-![Saifudheen's Image](https://github.com/saifudheenTK/your-repo-name/blob/main/your-image.jpg)
+![Saifudheen's Image]([https://github.com/saifudheenTK/your-repo-name/blob/main/your-image.jpg](https://github.com/saifudheenTK/img.git))
 
 ## About Me
 
