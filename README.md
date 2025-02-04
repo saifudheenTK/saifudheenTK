@@ -1,7 +1,7 @@
 # Saifudheen's Portfolio
 
-![Saifudheen's Image](![image](https://github.com/user-attachments/assets/dfbab968-f30b-4c7f-9844-8fbc7e24d6af)
-)
+![Saifudheen's Image](https://github.com/user-attachments/assets/dfbab968-f30b-4c7f-9844-8fbc7e24d6af)
+
 
 ## About Me
 
